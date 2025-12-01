@@ -6,6 +6,12 @@ body {
   color: #4B3832;
 }
 
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
 .mobile-header {
   display: flex;
   justify-content: space-between;
